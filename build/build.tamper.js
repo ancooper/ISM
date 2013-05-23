@@ -1,7 +1,7 @@
 // ==UserScript==
 // @id             iitc-plugin-ingress-strategy-manager@ancooper
 // @name           IITC plugin: ingress strategy manager
-// @version        0.1.2.44
+// @version        0.1.2.45
 // @description    ingress strategy manager for ingress over IITC
 // @include        https://www.ingress.com/intel*
 // @include        http://www.ingress.com/intel*
