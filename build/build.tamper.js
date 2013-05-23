@@ -1,7 +1,8 @@
 // ==UserScript==
 // @id             iitc-plugin-ingress-strategy-manager@ancooper
 // @name           IITC plugin: ingress strategy manager
-// @version        0.1.2.45
+// @version        0.1.2.46
+// @downloadURL    https://raw.github.com/ancooper/ISM/master/build/build.tamper.js
 // @description    ingress strategy manager for ingress over IITC
 // @include        https://www.ingress.com/intel*
 // @include        http://www.ingress.com/intel*
